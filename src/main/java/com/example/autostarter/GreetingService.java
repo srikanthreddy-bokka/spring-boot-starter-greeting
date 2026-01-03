@@ -1,4 +1,4 @@
-package org.springboot.autostarter;
+package com.example.autostarter;
 
 public class GreetingService {
     private final GreetingProperties properties;

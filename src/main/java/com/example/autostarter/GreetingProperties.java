@@ -1,4 +1,4 @@
-package org.springboot.autostarter;
+package com.example.autostarter;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

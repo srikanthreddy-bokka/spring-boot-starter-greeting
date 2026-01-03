@@ -1,4 +1,0 @@
-# Auto-configuration entry for Spring Boot (Spring Boot 2.x style)
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.example.autostarter.GreetingAutoConfiguration
-
